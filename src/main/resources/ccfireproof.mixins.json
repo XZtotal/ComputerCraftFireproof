@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "me.xztotal.ccfireproof.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ItemEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "ccfireproof.refmap.json"
+}
